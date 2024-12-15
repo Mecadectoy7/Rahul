@@ -8,5 +8,13 @@
 
 
 ---
+## SOLID design principles
+
+- Single Responsibility Principle (SRP)
+- Liskov Substitution Principle (LSP)
+- Interface Segregation Principle (ISP)
+- Dependency Inversion Principle (DIP).
+
+
 
 
