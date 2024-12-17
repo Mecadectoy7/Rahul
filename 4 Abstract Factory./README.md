@@ -1,6 +1,0 @@
-## Abstract Factory
-
-
-
-
-
