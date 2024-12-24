@@ -6,7 +6,7 @@
 - 3.Factory Method
 - 4.Abstract Factory
 - 5.Builder
-- 
+- 6.Prototype
 
 
 
