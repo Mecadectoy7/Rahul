@@ -7,7 +7,7 @@
 - 4.Abstract Factory
 - 5.Builder
 - 6.Prototype
-
+- 7.Adapter
 
 
 ---
