@@ -8,6 +8,7 @@
 - 5.Builder
 - 6.Prototype
 - 7.Adapter
+- 8.Composite
 
 
 ---
